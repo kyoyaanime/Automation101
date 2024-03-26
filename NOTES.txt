@@ -1,0 +1,96 @@
+
+ESS: 
+MDV210723 
+Darkangel.13 
+
+Payslip: 
+MDV210723 
+3453388499ESS 
+
+LMS: 
+Camille.vinluan 
+Darakngel.13 
+
+CleanChain: 
+Test Env: 
+https://test.my-aip.com/cleanchain/Home.aspx 
+camille.vinluan 
+P@ssw0rd 
+P@$$w0rd 
+
+camille.vinluan 
+P@$$w0rd 
+
+https://test.my-aip.com/servicecenter/ 
+fcsqa 
+P@$$w0rd2020 
+
+Start: 
+https://start.amdatex.com/ 
+
+https://itop.amdatex.com/pages/UI.php 
+**For Helpdesk 
+
+https://adecinnovations.visualstudio.com/ESG%20Software/_sprints/backlog/T-Team/ESG%20Software/Sprint%2021.08.10 
+T-Team Sprint board 
+
+https://firstcarbon.atlassian.net/wiki/spaces/SA/pages/6750258/CleanChain 
+Confluence (For Requirements/Specification) 
+
+URL on test and feedback: 
+https://adecinnovations.visualstudio.com/ESG%20Software 
+
+Email: 
+Camille Vinluan 
+Email Account: camille.vinluan@adec-innovations.com 
+Darkangel.13 
+
+https://test.my-aip.com/CleanChainAPI/rest/oauth/tokenByKeys
+- for generating accesstoken.
+
+ 
+
+Generating Accesstoken Format
+{"authenticationKey":"C0127D8F49E60E40E0530100007F475C","UserAccessKey":"C0128F0152281244E0530100007FD1AF"}
+
+ 
+
+Accesstoken Format
+accessToken:n0LAQYfxSbqGDn0eHlT0mg8cRvTjYNTd44rAX0aO3gfkq33oVpMxRlq8hgT0
+
+ 
+
+API documentation
+https://test.my-aip.com/CleanChainAPI/rest/v2/
+
+Format on raising on iTop Helpdesk
+
+Sir/Maam. I'm requesting for VPN and Account profile access in behalf of CAMILLE VINLUAN (New employee)
+
+Service unit-1610A000001917
+
+Employee ID: MDV210723
+
+Skype: camille.vinluan
+
+
+ 
+
+
+
+App installation: 
+	Oracle SQL Developer - Done
+    Skype - Done
+    Notepad++ - Done
+    Rstudio v1.4.1103 - Done
+    R Project (R-4.0.3-win) - Done
+    Zoom Meeting - Done
+    VPN - Done
+    Lightshot - Done
+    Mozilla Firefox - Done
+    Opera - Done
+    Mozilla Thunderbird - Done
+    Microsoft Teams - Done
+    Google Chrome - Done
+    Team Viewer - Done
+    O365 - Done
