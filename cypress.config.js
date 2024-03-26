@@ -5,7 +5,7 @@ const {downloadFile} = require('cypress-downloadfile/lib/addPlugin') //need plug
 module.exports = defineConfig({
   e2e: {
      watchForFileChanges: false,
-     defaultCommandTimeout: 5000,
+     defaultCommandTimeout: 10000,
     viewportWidth: 1024,
     viewportHeight: 768,
     setupNodeEvents(on, config) {

@@ -18,15 +18,15 @@ export class LoginPage{
 
     
     
-    username_textbox = '#WebPatterns_wt16_block_wtUsername_wtUserNameInput'
-    password_textbox = '#WebPatterns_wt16_block_wtPassword_wtPasswordInput'
-    Login_button = '#WebPatterns_wt16_block_wtAction_wtLoginButton'
+    username_textbox = '#UserNameInput'
+    password_textbox = '#PasswordInput'
+    Login_button = '#LoginButton'
     
 
 
     enterLoginURL(){
-        cy.visit('https://'+this.login_env+'.my-aip.com/zdhcgateway/') //old link
-        // cy.visit('https://'+this.login_env+'.my-aip.com/ZDHCLogin/') //refactored link
+        // cy.visit('https://'+this.login_env+'.my-aip.com/zdhcgateway/') //old link
+        cy.visit('https://'+this.login_env+'.my-aip.com/ZDHCLogin/') //refactored link
     }
 
     enterUserName(username){
